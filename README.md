@@ -1,6 +1,6 @@
 # HaberSitesi
 
-It is used as a news site. It can be used for accurate and new news. bootstrap, Javascript, Asp.Net technologies are used.
+It is used as a news site. It can be used for accurate and new news. Bootstrap, Javascript, Asp.Net technologies are used.
 
 
 ![1](https://user-images.githubusercontent.com/105209972/181255285-55fa06bb-f5c9-4fe4-919a-6efa2d4ce170.png)
